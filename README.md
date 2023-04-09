@@ -1,9 +1,7 @@
 # Redux Toolkit
 
-- This repo is copy from john-smilga
-  /
-  redux-toolkit-tutorial
-- Thanks to John-smilga for making such a nice tutorial that helps me more to learn Redux toolkit
+- This repo's some contents are copied from john-smilga/redux-toolkit-tutorial for speeding up the code and focusing on the redux, not style or other stuff.
+- Thanks to John-smilga for making such a nice tutorial that helps me more to learn the Redux toolkit
 
 #### React Course
 
