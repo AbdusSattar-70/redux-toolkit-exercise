@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AbdusSattar-70/redux-toolkit-exercise/static/css/main.a1407077.css",
+    "main.js": "/AbdusSattar-70/redux-toolkit-exercise/static/js/main.82fd0f96.js",
+    "index.html": "/AbdusSattar-70/redux-toolkit-exercise/index.html",
+    "main.a1407077.css.map": "/AbdusSattar-70/redux-toolkit-exercise/static/css/main.a1407077.css.map",
+    "main.82fd0f96.js.map": "/AbdusSattar-70/redux-toolkit-exercise/static/js/main.82fd0f96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1407077.css",
+    "static/js/main.82fd0f96.js"
+  ]
+}
